@@ -1,0 +1,11 @@
+import math
+print("sin60",math.sin(60))
+print("cos pi",math.cos(math.pi))
+print("tan90",math.tan(90))
+print("angle of sin(0.8660254037844386:",math.degrees(0.8660254037844386))
+print("sqrootof 400:",math.sqrt(400))
+print("the value of log(1024,base2:",math.log(1024,2))
+print("the value of log(1024,base10:",math.log(1024,10))
+print("ceilvalue:",math.ceil(23.56))
+print("floorvalve:",math.floor(23.56))
+print(math.exp(5))
